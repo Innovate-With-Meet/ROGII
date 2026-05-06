@@ -1,2 +1,2 @@
 So the problem that faces with the horizontal drilling.
-1: 
+1: when machine start drilling the rock surface data is inaccurate and predicted, and rock layer that gas is hidden inside that is predcited not the actually located, so when the drill is start so there is a possiblity that machine drill to wrong rock or "nopayzone" instead of "payzone" !
